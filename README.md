@@ -1,4 +1,4 @@
-# 🎥 YouTube-Inspired Video Sharing Website
+# 🎥 YouTube-Clone Website
 
 This is a responsive video sharing website design built using HTML, CSS, and a small amount of JavaScript.
 
