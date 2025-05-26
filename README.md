@@ -1,6 +1,6 @@
 # 🎥 YouTube-Inspired Video Sharing Website
 
-This is a **responsive video sharing website design**, built using **HTML**, **CSS**, and a small amount of **JavaScript**.
+This is a responsive video sharing website design built using HTML, CSS, and a small amount of JavaScript.
 
 ## 📺 Features
 
@@ -32,4 +32,4 @@ The entire website layout is fully responsive and works well on:
 - Mobile devices
 
 ## 🚀 Live Demo
-[🔗 View Live Site](https://your-github-username.github.io/your-repo-name/)  
+[🔗 View Live Site](https://aianaaa.github.io/YouTube_Frontend/)  
